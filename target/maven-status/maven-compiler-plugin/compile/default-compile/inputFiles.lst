@@ -1,0 +1,6 @@
+D:\LegainProject\g6-train-hadoop\g6-train-hadoop\src\main\java\com\ruozedata\hadoop\utils\ProduceLog.java
+D:\LegainProject\g6-train-hadoop\g6-train-hadoop\src\main\java\com\ruozedata\hadoop\hiveudf\fn_dim_idcard15to18.java
+D:\LegainProject\g6-train-hadoop\g6-train-hadoop\src\main\java\com\ruozedata\hadoop\mapreduce\driver\LogETLDriver.java
+D:\LegainProject\g6-train-hadoop\g6-train-hadoop\src\main\java\com\ruozedata\hadoop\utils\LogUtils.java
+D:\LegainProject\g6-train-hadoop\g6-train-hadoop\src\main\java\com\ruozedata\hadoop\hiveudf\decode_str.java
+D:\LegainProject\g6-train-hadoop\g6-train-hadoop\src\main\java\com\ruozedata\hadoop\mapreduce\mapper\LogETLMapper.java
